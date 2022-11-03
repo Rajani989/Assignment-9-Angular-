@@ -1,0 +1,20 @@
+img{
+  float: left;
+    width:  100px;
+    height: 100px;
+    background-size: cover;
+    margin: 10px;
+}
+h1{
+ margin-left: 500px;
+ color: rgb(39, 39, 194);
+}
+.header{
+  float: left;
+}
+h2{
+  text-align: center;
+  color:blueviolet;
+
+  font-family: 'Times New Roman', Times, serif;
+}
