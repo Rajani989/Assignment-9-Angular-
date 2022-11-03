@@ -1,0 +1,27 @@
+td{
+     color: blue;
+  text-align: center;
+      padding: 5px;
+}
+th{
+    text-align:center;
+    color:rgb(14, 11, 11);
+    padding: 5px;;
+}
+tr{
+    background-color: rgb(224, 220, 220);
+}
+
+   
+table{
+   width: 100%;  
+}
+h2,h1{
+    color:blueviolet;
+    text-align: center;
+
+}
+img{
+    margin: 50px;
+    display: inline-block;
+}
